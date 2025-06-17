@@ -1,1 +1,10 @@
 prometheus
+alertmanager
+grafana
+node-exporter
+blackbox-exporter
+kube-state-metrics
+prometheus-adapter
+prometheus-operator
+kube-rbac-proxy
+configmap-reload
