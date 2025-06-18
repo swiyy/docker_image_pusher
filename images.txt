@@ -1,1 +1,2 @@
 docker.io/wordpress:php8.3-fpm-alpine
+docker.io/bitnami/mariadb:10.4
