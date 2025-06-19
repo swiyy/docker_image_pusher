@@ -1,1 +1,1 @@
-docker.io/library/busybox:1.28
+registry.k8s.io/pause:3.6
