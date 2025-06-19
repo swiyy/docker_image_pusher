@@ -1,1 +1,1 @@
-registry.k8s.io/pause:3.6
+docker.io/library/wordpress:6.2.2
