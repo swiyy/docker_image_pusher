@@ -1,1 +1,1 @@
-docker.io/library/wordpress:6.2.2
+docker.io/library/busybox:1.28
